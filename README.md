@@ -92,8 +92,8 @@ Le site a été rédigé à partir de l'ancien site, de la page Facebook, de l'a
 
 ### Infos qui manquent
 
-8. **La gamme complète** avec les formats et les poids : terrine au bleu, terrine bourguignonne, court-bouillon, brochettes panées… Que contenait la rubrique « Autres » de l'ancien site ?
-9. **Les tarifs 2025-2026** : envoyer le PDF « Tarif particulier ». On pourra le mettre en téléchargement sur la page Nos escargots, ou afficher les prix directement.
+8. **La gamme** : la page Nos escargots reprend les produits et les prix de l'ancien site (coquilles, croquilles, court-bouillon en 3 calibres, salmis). Ces prix sont-ils toujours à jour ? Que contient la rubrique « Autres » de l'ancien site ? Les terrines (au bleu, bourguignonne) et les brochettes panées citées dans un article de 2018 existent-elles encore ?
+9. **Les tarifs professionnels**, si Florian vend aux restaurants ou aux magasins.
 10. **Les visites** : à quelle période de l'année ? Durée ? Prix (gratuit ou payant) ? Groupes et scolaires acceptés ? Y a-t-il une dégustation ?
 11. **Portes ouvertes** : à quelle fréquence, à quelles dates ?
 12. **Commandes pour les fêtes** : délai conseillé ? Livraison possible ou uniquement retrait ?

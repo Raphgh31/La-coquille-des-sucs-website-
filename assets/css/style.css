@@ -678,3 +678,25 @@ html:active-view-transition-type(back)::view-transition-new(page) { animation-na
   .brand__name small { font-size: .62rem; }
   .hero-visual .hand-note { max-width: 52%; }
 }
+
+/* Fiches produits avec photo et prix */
+.labels--two { grid-template-columns: 1fr 1fr; align-items: start; }
+@media (max-width: 960px) { .labels--two { grid-template-columns: 1fr; } }
+.label--product { padding: 0; overflow: hidden; }
+.label--product::after { display: none; }
+.label__img { width: 100%; aspect-ratio: 577 / 238; object-fit: cover; border-bottom: 1px solid var(--line); }
+.label__body { padding: 22px 24px 20px; display: flex; flex-direction: column; flex: 1; }
+.label__prices { list-style: none; margin: auto 0 0; padding: 0; border-top: 1px dashed var(--line); }
+.label__prices li {
+  display: flex; justify-content: space-between; align-items: baseline; gap: 14px;
+  padding: 10px 0; border-bottom: 1px dashed var(--line);
+}
+.label__fmt { font-weight: 700; line-height: 1.3; }
+.label__fmt small { display: block; font-weight: 400; font-size: .85rem; color: var(--ink-soft); }
+.label__price {
+  font-family: var(--serif); font-size: 1.35rem; font-weight: 600; color: var(--brown-deep); white-space: nowrap;
+  font-variation-settings: "SOFT" 100, "WONK" 1;
+}
+.label--note { background: var(--paper-deep); }
+.label--note p { margin-bottom: .7em; }
+.showcase__list em { white-space: nowrap; }
